@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Jaycen0113",
+    "database": "fullstack",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
